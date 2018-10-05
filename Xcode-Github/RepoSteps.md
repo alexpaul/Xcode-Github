@@ -10,4 +10,4 @@
 1. Paste in terminal and press enter 
 1. Run `git push --set-upstream origin master`
 
-At this point if all went well you should be able to refresh your Github page and the repo
+At this point if all went well you should be able to refresh your Github page and see your newly repo
