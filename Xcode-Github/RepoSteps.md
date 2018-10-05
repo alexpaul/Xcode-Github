@@ -6,7 +6,7 @@
 1. Add files to be changed and commited by running `git add filename` or `git add .` N.B be careful as to what files are being commited if doing an <b>`git add .`</b>
 1. Add commit message by running `git commmit -m "initial commit"`
 1. Navigate to [Github.com](https://www.github.com) and create a new repository 
-1. Copy `git remote add <url>` url 
+1. Copy `git remote add <url>` url from your newly created Github remote repo
 1. Paste in terminal and press enter 
 1. Run `git push --set-upstream origin master`
 
